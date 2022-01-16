@@ -1,0 +1,26 @@
+body {
+    font: Arial;
+}
+
+.navbar {
+    background-color: #616A6B;
+}
+
+.quem-somos {
+    background-color:  #7f8c8d;
+    color: white;
+}
+
+.margin {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.contato {
+    background-color:  #f0f3f4;
+}
+
+.footer {
+    background-color: #616A6B;
+    color: white;
+}
