@@ -1,3 +1,5 @@
 # Projeto_Bootstrap
 
-### Projeto simples de Bootstrap 
+### Template simples
+
+Template simples feito com Bootstrap para usar de base em outros projetos.
